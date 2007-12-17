@@ -13,7 +13,6 @@ License:	GPL
 # License according to reelmedia representative posting in thread below:
 URL:		http://www.vdr-portal.de/board/thread.php?threadid=42586
 Source:		vdr-%plugin-%version.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	vdr-devel >= 1.4.1-6
 Requires:	vdr-abi = %vdr_abi
 
