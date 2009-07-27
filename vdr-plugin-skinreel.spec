@@ -2,7 +2,7 @@
 %define plugin	skinreel
 %define name	vdr-plugin-%plugin
 %define version	0.0.1
-%define rel	7
+%define rel	8
 
 Summary:	VDR plugin: Reel Skin-Plugin
 Name:		%name
