@@ -3,7 +3,7 @@
 Summary:	VDR plugin: Reel Skin-Plugin
 Name:		vdr-plugin-%plugin
 Version:	0.0.1
-Release:	9
+Release:	10
 Group:		Video
 License:	GPL
 # License according to reelmedia representative posting in thread below:
@@ -27,12 +27,6 @@ find . -perm 0600 -exec chmod a+r {} \;
 
 %install
 %vdr_plugin_install
-
-%post
-%vdr_plugin_post %plugin
-
-%postun
-%vdr_plugin_postun %plugin
 
 %files -f %plugin.vdr
 %defattr(-,root,root)
