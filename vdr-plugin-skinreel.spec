@@ -3,7 +3,7 @@
 Summary:	VDR plugin: Reel Skin-Plugin
 Name:		vdr-plugin-%plugin
 Version:	0.0.1
-Release:	10
+Release:	11
 Group:		Video
 License:	GPL
 # License according to reelmedia representative posting in thread below:
