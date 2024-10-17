@@ -7,7 +7,7 @@ Release:	12
 Group:		Video
 License:	GPL
 # License according to reelmedia representative posting in thread below:
-URL:		http://www.vdr-portal.de/board/thread.php?threadid=42586
+URL:		https://www.vdr-portal.de/board/thread.php?threadid=42586
 Source:		vdr-%plugin-%version.tar.bz2
 Patch0:		skinreel-0.0.1-i18n-1.6.patch
 BuildRequires:	vdr-devel >= 1.6.0
